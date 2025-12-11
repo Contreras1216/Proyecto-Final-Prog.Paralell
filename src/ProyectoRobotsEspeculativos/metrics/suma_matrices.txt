@@ -1,0 +1,3 @@
+=== Suma Matrices Paralela vs Secuencial (Benchmark) ===
+Tiempo: 3 ms
+Fecha: 11/12/2025 4:37:25 p. m.

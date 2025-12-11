@@ -1,0 +1,4 @@
+=== Speedup y Eficiencia ===
+Speedup teórico tomado del ejemplo: 4x
+Eficiencia estimada: 33%
+Fecha: 11/12/2025 3:40:29 p. m.

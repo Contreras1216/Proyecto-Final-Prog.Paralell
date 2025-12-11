@@ -1,0 +1,27 @@
+# Archivos y carpetas que NO deben subirse
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+*.vsidx
+*.db
+*.db-wal
+*.db-shm
+
+# Visual Studio
+*.userosscache
+.vscode/
+
+# Build outputs
+**/bin/
+**/obj/
+
+# Test artifacts
+TestResults/
+
+# Sistema
+Thumbs.db
+.DS_Store

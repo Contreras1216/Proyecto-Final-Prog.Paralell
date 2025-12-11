@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ProyectoRobotsEspeculativos": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
