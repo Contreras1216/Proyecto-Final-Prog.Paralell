@@ -1,3 +1,0 @@
-=== Producto Punto Secuencial (Benchmark) ===
-Tiempo: 0 ms
-Fecha: 11/12/2025 4:37:25 p. m.
