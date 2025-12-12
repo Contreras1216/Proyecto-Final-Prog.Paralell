@@ -15,7 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ProyectoRobotsEspeculativos\ProyectoRobotsEspeculativos.csproj" />
+    <ProjectReference Include="..\..\src\ProyectoRobotsEspeculativos\ProyectoRobotsEspeculativos.csproj" />
   </ItemGroup>
 
   <ItemGroup>
